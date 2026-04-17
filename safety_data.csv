@@ -1,0 +1,101 @@
+id,area_name,latitude,longitude,issue_type,reported_time,risk_level
+1,Secunderabad,17.435633,78.500515,unsafe_route,10-04-2026 10:00,medium
+2,Madhapur,17.4487,78.39257,dark_street,05-04-2026 05:00,medium
+3,Kukatpally,17.496406,78.403051,suspicious_activity,04-04-2026 19:00,high
+4,Hitech City,17.443102,78.374308,no_street_light,06-04-2026 05:00,medium
+5,Miyapur,17.499553,78.359816,unsafe_route,02-04-2026 18:00,low
+6,Secunderabad,17.442391,78.493517,dark_street,07-04-2026 08:00,medium
+7,Kukatpally,17.495841,78.400708,suspicious_activity,06-04-2026 06:00,high
+8,Hitech City,17.441002,78.373642,unsafe_route,05-04-2026 14:00,high
+9,Madhapur,17.449379,78.386987,suspicious_activity,10-04-2026 23:00,high
+10,LB Nagar,17.343016,78.549931,no_street_light,08-04-2026 02:00,medium
+11,Madhapur,17.443597,78.393185,unsafe_route,10-04-2026 17:00,high
+12,Ameerpet,17.436776,78.445647,suspicious_activity,04-04-2026 04:00,low
+13,Ameerpet,17.435684,78.445226,no_street_light,08-04-2026 07:00,low
+14,Miyapur,17.492334,78.354181,harassment,07-04-2026 02:00,high
+15,Kukatpally,17.499762,78.401703,suspicious_activity,02-04-2026 01:00,medium
+16,Dilsukhnagar,17.368748,78.528151,unsafe_route,08-04-2026 05:00,low
+17,Secunderabad,17.444683,78.499025,suspicious_activity,02-04-2026 04:00,low
+18,Kukatpally,17.490244,78.400653,unsafe_route,02-04-2026 06:00,medium
+19,Hitech City,17.448175,78.381749,no_street_light,02-04-2026 04:00,medium
+20,Ameerpet,17.433246,78.445273,no_street_light,05-04-2026 17:00,high
+21,Kukatpally,17.497197,78.402477,no_street_light,04-04-2026 19:00,low
+22,Hitech City,17.444592,78.380465,unsafe_route,10-04-2026 09:00,high
+23,Madhapur,17.44753,78.393439,no_street_light,03-04-2026 14:00,low
+24,Ameerpet,17.441702,78.446706,harassment,07-04-2026 07:00,low
+25,LB Nagar,17.349011,78.552708,unsafe_route,03-04-2026 04:00,low
+26,Kukatpally,17.499155,78.397235,unsafe_route,07-04-2026 21:00,medium
+27,Hitech City,17.440552,78.374252,dark_street,04-04-2026 11:00,high
+28,LB Nagar,17.342686,78.550949,harassment,04-04-2026 20:00,high
+29,Kukatpally,17.498299,78.403534,dark_street,06-04-2026 09:00,low
+30,LB Nagar,17.341086,78.556712,no_street_light,09-04-2026 22:00,high
+31,Miyapur,17.497515,78.354833,suspicious_activity,10-04-2026 16:00,high
+32,Ameerpet,17.439965,78.449731,unsafe_route,10-04-2026 22:00,high
+33,Dilsukhnagar,17.370034,78.526438,unsafe_route,03-04-2026 23:00,medium
+34,Hitech City,17.439512,78.374081,unsafe_route,05-04-2026 04:00,low
+35,Dilsukhnagar,17.367142,78.526272,no_street_light,08-04-2026 21:00,medium
+36,Dilsukhnagar,17.366178,78.528025,no_street_light,08-04-2026 05:00,high
+37,Secunderabad,17.443218,78.499773,unsafe_route,09-04-2026 09:00,medium
+38,Ameerpet,17.435854,78.444659,unsafe_route,02-04-2026 02:00,low
+39,Hitech City,17.441715,78.377417,suspicious_activity,05-04-2026 12:00,low
+40,LB Nagar,17.344188,78.548781,unsafe_route,06-04-2026 00:00,medium
+41,Dilsukhnagar,17.3715,78.526152,harassment,11-04-2026 14:00,high
+42,LB Nagar,17.347756,78.554805,suspicious_activity,03-04-2026 13:00,low
+43,LB Nagar,17.346632,78.552005,harassment,07-04-2026 18:00,low
+44,Hitech City,17.446332,78.375392,no_street_light,04-04-2026 08:00,high
+45,Dilsukhnagar,17.365998,78.521775,suspicious_activity,10-04-2026 04:00,medium
+46,Madhapur,17.451993,78.392079,no_street_light,05-04-2026 08:00,medium
+47,Miyapur,17.498365,78.360082,dark_street,09-04-2026 20:00,medium
+48,Secunderabad,17.436822,78.495777,harassment,05-04-2026 11:00,low
+49,Miyapur,17.497934,78.353763,suspicious_activity,04-04-2026 10:00,high
+50,Secunderabad,17.435321,78.502397,suspicious_activity,11-04-2026 16:00,high
+51,Dilsukhnagar,17.371877,78.523697,no_street_light,04-04-2026 21:00,low
+52,Madhapur,17.446228,78.390024,harassment,02-04-2026 19:00,high
+53,Hitech City,17.440853,78.380799,no_street_light,10-04-2026 17:00,medium
+54,Ameerpet,17.440241,78.452165,dark_street,10-04-2026 05:00,low
+55,Miyapur,17.498083,78.352395,dark_street,11-04-2026 16:00,medium
+56,Hitech City,17.444579,78.378909,no_street_light,04-04-2026 23:00,low
+57,Hitech City,17.438544,78.376073,no_street_light,06-04-2026 12:00,low
+58,Kukatpally,17.491525,78.402148,dark_street,06-04-2026 20:00,high
+59,Hitech City,17.44624,78.376025,dark_street,07-04-2026 18:00,low
+60,Hitech City,17.444165,78.378749,dark_street,03-04-2026 05:00,high
+61,Dilsukhnagar,17.369626,78.523809,unsafe_route,08-04-2026 05:00,low
+62,Hitech City,17.44468,78.374228,harassment,09-04-2026 04:00,medium
+63,Hitech City,17.439513,78.377977,no_street_light,03-04-2026 16:00,low
+64,Madhapur,17.452273,78.389624,dark_street,08-04-2026 20:00,medium
+65,Kukatpally,17.494403,78.399785,suspicious_activity,07-04-2026 05:00,high
+66,LB Nagar,17.348882,78.547023,suspicious_activity,03-04-2026 09:00,high
+67,Secunderabad,17.436479,78.502175,harassment,08-04-2026 21:00,medium
+68,Hitech City,17.440745,78.376045,unsafe_route,07-04-2026 18:00,low
+69,Secunderabad,17.439226,78.496507,dark_street,07-04-2026 08:00,medium
+70,Ameerpet,17.433185,78.448429,unsafe_route,04-04-2026 04:00,low
+71,LB Nagar,17.342886,78.548392,harassment,03-04-2026 16:00,low
+72,Dilsukhnagar,17.364379,78.525387,unsafe_route,08-04-2026 18:00,low
+73,Ameerpet,17.433007,78.451709,harassment,05-04-2026 10:00,low
+74,LB Nagar,17.345176,78.547263,unsafe_route,03-04-2026 06:00,low
+75,Kukatpally,17.491276,78.39662,unsafe_route,07-04-2026 19:00,high
+76,Secunderabad,17.439623,78.498067,suspicious_activity,08-04-2026 01:00,medium
+77,Kukatpally,17.498575,78.397117,suspicious_activity,07-04-2026 06:00,low
+78,Secunderabad,17.437517,78.501773,suspicious_activity,02-04-2026 02:00,high
+79,Dilsukhnagar,17.37006,78.521502,unsafe_route,02-04-2026 05:00,low
+80,Dilsukhnagar,17.36389,78.528918,no_street_light,09-04-2026 21:00,low
+81,Ameerpet,17.439073,78.451665,unsafe_route,08-04-2026 03:00,high
+82,Hitech City,17.44842,78.372582,unsafe_route,08-04-2026 15:00,high
+83,Dilsukhnagar,17.369159,78.52868,dark_street,06-04-2026 01:00,low
+84,Hitech City,17.447399,78.373712,dark_street,07-04-2026 17:00,low
+85,Hitech City,17.446102,78.38059,no_street_light,05-04-2026 04:00,medium
+86,LB Nagar,17.344111,78.551406,dark_street,05-04-2026 16:00,medium
+87,Madhapur,17.45024,78.394677,harassment,09-04-2026 06:00,high
+88,Secunderabad,17.437759,78.50252,unsafe_route,03-04-2026 02:00,low
+89,Ameerpet,17.434669,78.443229,suspicious_activity,09-04-2026 20:00,high
+90,Dilsukhnagar,17.367354,78.525935,no_street_light,08-04-2026 03:00,medium
+91,Kukatpally,17.497928,78.398674,unsafe_route,10-04-2026 23:00,high
+92,LB Nagar,17.348913,78.54819,harassment,11-04-2026 11:00,low
+93,Miyapur,17.496447,78.352825,dark_street,09-04-2026 03:00,low
+94,Kukatpally,17.49946,78.403519,harassment,02-04-2026 23:00,high
+95,Miyapur,17.501422,78.360604,unsafe_route,03-04-2026 23:00,low
+96,Dilsukhnagar,17.364002,78.521375,suspicious_activity,08-04-2026 03:00,high
+97,LB Nagar,17.345941,78.555483,dark_street,03-04-2026 14:00,medium
+98,Madhapur,17.451211,78.39373,dark_street,06-04-2026 20:00,low
+99,Madhapur,17.447904,78.386665,harassment,02-04-2026 06:00,medium
+100,Madhapur,17.44473,78.393603,suspicious_activity,05-04-2026 06:00,medium
