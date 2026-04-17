@@ -98,7 +98,7 @@ IGNORE 1 ROWS;
 ### 4️⃣ Run the Application
 
 ```
-streamlit run chatui.py
+streamlit run main.py
 ```
 
 ---
